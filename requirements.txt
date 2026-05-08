@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+geopandas
+pyproj
+rtree
+shapely
+scipy
+requests
+osmnx
